@@ -1,0 +1,8 @@
+# Working files kept locally; only README.md and data/papers.csv are published
+pdfs/
+papers/
+screening/
+survey_taxonomies/
+TAXONOMY.md
+CROSS_VALIDATION.md
+__pycache__/

@@ -1,0 +1,51 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='960' height='330' viewBox='0 0 960 330' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif'>
+<rect width='100%' height='100%' rx='12' fill='#1a1a19'/>
+<text x='480.0' y='38' font-size='18' font-weight='600' text-anchor='middle' fill='#ffffff'>Agent = model θ + scaffold S.  Self-evolving = S is persistently updated from feedback and reused.</text>
+<rect x='24' y='66' width='213' height='238' rx='10' fill='#232322' stroke='#383835'/>
+<rect x='24' y='66' width='213' height='4' rx='2' fill='#3987e5'/>
+<text x='42' y='102'><tspan font-size='20' font-weight='700' fill='#3987e5'>WHAT</tspan><tspan dx='8' font-size='14' fill='#c3c2b7'>evolves</tspan></text>
+<rect x='40' y='114' width='181' height='26' rx='6' fill='#1a1a19' stroke='#383835'/>
+<text x='52' y='132' font-size='13' fill='#ffffff'>Memory</text>
+<rect x='40' y='148' width='181' height='26' rx='6' fill='#1a1a19' stroke='#383835'/>
+<text x='52' y='166' font-size='13' fill='#ffffff'>Knowledge</text>
+<rect x='40' y='182' width='181' height='26' rx='6' fill='#1a1a19' stroke='#383835'/>
+<text x='52' y='200' font-size='13' fill='#ffffff'>Toolkit</text>
+<rect x='40' y='216' width='181' height='26' rx='6' fill='#1a1a19' stroke='#383835'/>
+<text x='52' y='234' font-size='13' fill='#ffffff'>Architecture</text>
+<text x='42' y='274' font-size='11' fill='#c3c2b7'>flags: shared · +weights</text>
+<text x='42' y='289' font-size='11' fill='#c3c2b7'>LLM-as-operator</text>
+<rect x='253' y='66' width='213' height='238' rx='10' fill='#232322' stroke='#383835'/>
+<rect x='253' y='66' width='213' height='4' rx='2' fill='#3987e5'/>
+<text x='271' y='102'><tspan font-size='20' font-weight='700' fill='#3987e5'>WHEN</tspan><tspan dx='8' font-size='14' fill='#c3c2b7'>it evolves</tspan></text>
+<rect x='269' y='114' width='181' height='26' rx='6' fill='#1a1a19' stroke='#383835'/>
+<text x='281' y='132' font-size='13' fill='#ffffff'>Training-time</text>
+<rect x='269' y='148' width='181' height='26' rx='6' fill='#1a1a19' stroke='#383835'/>
+<text x='281' y='166' font-size='13' fill='#ffffff'>Inference · cross-task</text>
+<rect x='269' y='182' width='181' height='26' rx='6' fill='#1a1a19' stroke='#383835'/>
+<text x='281' y='200' font-size='13' fill='#ffffff'>Inference · within-project</text>
+<text x='271' y='274' font-size='11' fill='#c3c2b7'>built then frozen,</text>
+<text x='271' y='289' font-size='11' fill='#c3c2b7'>or grown during use</text>
+<rect x='482' y='66' width='213' height='238' rx='10' fill='#232322' stroke='#383835'/>
+<rect x='482' y='66' width='213' height='4' rx='2' fill='#3987e5'/>
+<text x='500' y='102'><tspan font-size='20' font-weight='700' fill='#3987e5'>HOW</tspan><tspan dx='8' font-size='14' fill='#c3c2b7'>it evolves</tspan></text>
+<rect x='498' y='114' width='181' height='26' rx='6' fill='#1a1a19' stroke='#383835'/>
+<text x='510' y='132' font-size='13' fill='#ffffff'>Feedback signal</text>
+<rect x='498' y='148' width='181' height='26' rx='6' fill='#1a1a19' stroke='#383835'/>
+<text x='510' y='166' font-size='13' fill='#ffffff'>Updater</text>
+<rect x='498' y='182' width='181' height='26' rx='6' fill='#1a1a19' stroke='#383835'/>
+<text x='510' y='200' font-size='13' fill='#ffffff'>Update method</text>
+<text x='500' y='274' font-size='11' fill='#c3c2b7'>signals: code · simulation · data</text>
+<text x='500' y='289' font-size='11' fill='#c3c2b7'>literature · LLM · experts · lab</text>
+<rect x='711' y='66' width='213' height='238' rx='10' fill='#232322' stroke='#383835'/>
+<rect x='711' y='66' width='213' height='4' rx='2' fill='#3987e5'/>
+<text x='729' y='102'><tspan font-size='20' font-weight='700' fill='#3987e5'>WHERE</tspan><tspan dx='8' font-size='14' fill='#c3c2b7'>it is used</tspan></text>
+<rect x='727' y='114' width='181' height='26' rx='6' fill='#1a1a19' stroke='#383835'/>
+<text x='739' y='132' font-size='13' fill='#ffffff'>Life Sciences</text>
+<rect x='727' y='148' width='181' height='26' rx='6' fill='#1a1a19' stroke='#383835'/>
+<text x='739' y='166' font-size='13' fill='#ffffff'>Chemistry &amp; Materials</text>
+<rect x='727' y='182' width='181' height='26' rx='6' fill='#1a1a19' stroke='#383835'/>
+<text x='739' y='200' font-size='13' fill='#ffffff'>Physics, Earth &amp; Space</text>
+<rect x='727' y='216' width='181' height='26' rx='6' fill='#1a1a19' stroke='#383835'/>
+<text x='739' y='234' font-size='13' fill='#ffffff'>General-Purpose</text>
+<text x='729' y='274' font-size='11' fill='#c3c2b7'>domain actually evaluated</text>
+</svg>
