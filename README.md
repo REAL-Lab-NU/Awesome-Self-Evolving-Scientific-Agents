@@ -34,7 +34,7 @@ This repository collects work on **self-evolving LLM agents in the natural scien
   - [🧬 Life Sciences](#-life-sciences) (56)
   - [🔬 Chemistry & Materials](#-chemistry--materials) (45)
   - [🌌 Physics, Earth & Space Sciences](#-physics-earth--space-sciences) (25)
-  - [🧭 General-Purpose Scientific Agents](#-general-purpose-scientific-agents) (13)
+  - [🧭 General Scientific Agent Frameworks](#-general-scientific-agent-frameworks) (13)
 - [🤝 Contributing](#-contributing)
 
 ## 🔍 What counts as self-evolving
@@ -62,7 +62,7 @@ We view an agent as a **model θ plus a scaffold S**: memory, knowledge, tools, 
 | **What evolves** | 🗂️ **Memory**: concrete cases, trajectories, experiment records · 💡 **Knowledge**: rules, mechanisms, hypotheses distilled from many cases · 🛠️ **Toolkit**: executable tools, functions, procedures · 🏗️ **Architecture**: prompts, workflows, team topology, the agent's own code |
 | **When** | `training-time`: built in a dedicated phase, then frozen · `cross-task`: grows during use and carries over to new tasks · `within-project`: persists across rounds of one research project |
 | **How** | *Feedback signal*: formal verification, code execution, simulation, datasets & benchmarks, literature, LLM judge, human expert, wet lab & instruments · *Update method*: direct recording, reflection & summarization, imitation & distillation, search & evolution, optimization, RL |
-| **Where** | 🧬 Life Sciences · 🔬 Chemistry & Materials · 🌌 Physics, Earth & Space · 🧭 General-purpose (evaluated in two or more domains) |
+| **Where** | 🧬 Life Sciences · 🔬 Chemistry & Materials · 🌌 Physics, Earth & Space · 🧭 General Scientific Agent Frameworks (evaluated in two or more domains) |
 
 Flags: `shared` several agents read and write the same evolving artifact · `+weights` model weights are updated as well · `LLM-as-operator` the LLM proposes inside a fixed loop while scaffold state still evolves.
 
@@ -283,7 +283,7 @@ Papers are grouped by domain, then by the deepest component that evolves (Archit
 
 </details>
 
-### 🧭 General-Purpose Scientific Agents
+### 🧭 General Scientific Agent Frameworks
 
 <details open>
 <summary><b>🏗️ Architecture</b> (3) · <i>agents that rewrite their own prompts, workflows, team structure, or code</i></summary>
