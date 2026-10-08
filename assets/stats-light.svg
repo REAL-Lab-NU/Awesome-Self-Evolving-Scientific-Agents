@@ -1,7 +1,7 @@
 <svg xmlns='http://www.w3.org/2000/svg' width='907' height='334' viewBox='0 0 907 334' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif'>
 <rect width='100%' height='100%' rx='12' fill='#fcfcfb'/>
 <text x='24' y='34' font-size='17' font-weight='600' fill='#0b0b0b'>Papers per domain: what evolves and when</text>
-<text x='24' y='56' font-size='12' fill='#52514e'>139 papers. What evolves is multi-label, so a row can exceed its paper count.</text>
+<text x='24' y='56' font-size='12' fill='#52514e'>138 papers. What evolves is multi-label, so a row can exceed its paper count.</text>
 <text x='378.5' y='86' font-size='12' font-weight='600' text-anchor='middle' fill='#52514e'>What evolves</text>
 <text x='739.0' y='86' font-size='12' font-weight='600' text-anchor='middle' fill='#52514e'>When</text>
 <text x='236.0' y='106' font-size='12' text-anchor='middle' fill='#0b0b0b'>Memory</text>
@@ -12,37 +12,37 @@
 <text x='739.0' y='106' font-size='12' text-anchor='middle' fill='#0b0b0b'>Cross-task</text>
 <text x='834.0' y='106' font-size='12' text-anchor='middle' fill='#0b0b0b'>Within-project</text>
 <text x='178' y='137.0' font-size='13' text-anchor='end' fill='#0b0b0b'>Life Sciences</text>
-<text x='178' y='153.0' font-size='11' text-anchor='end' fill='#52514e'>56 papers</text>
+<text x='178' y='153.0' font-size='11' text-anchor='end' fill='#52514e'>55 papers</text>
 <rect x='190' y='116' width='92' height='46' rx='4' fill='#0d366b'><title>Life Sciences / Memory: 36</title></rect>
 <text x='236.0' y='144.0' font-size='14' font-weight='600' text-anchor='middle' fill='#ffffff'>36</text>
 <rect x='285' y='116' width='92' height='46' rx='4' fill='#184f95'><title>Life Sciences / Knowledge: 30</title></rect>
 <text x='331.0' y='144.0' font-size='14' font-weight='600' text-anchor='middle' fill='#ffffff'>30</text>
 <rect x='380' y='116' width='92' height='46' rx='4' fill='#3987e5'><title>Life Sciences / Toolkit: 17</title></rect>
 <text x='426.0' y='144.0' font-size='14' font-weight='600' text-anchor='middle' fill='#ffffff'>17</text>
-<rect x='475' y='116' width='92' height='46' rx='4' fill='#6da7ec'><title>Life Sciences / Architecture: 11</title></rect>
-<text x='521.0' y='144.0' font-size='14' font-weight='600' text-anchor='middle' fill='#0b0b0b'>11</text>
+<rect x='475' y='116' width='92' height='46' rx='4' fill='#6da7ec'><title>Life Sciences / Architecture: 12</title></rect>
+<text x='521.0' y='144.0' font-size='14' font-weight='600' text-anchor='middle' fill='#0b0b0b'>12</text>
 <rect x='598' y='116' width='92' height='46' rx='4' fill='#86b6ef'><title>Life Sciences / Training: 10</title></rect>
 <text x='644.0' y='144.0' font-size='14' font-weight='600' text-anchor='middle' fill='#0b0b0b'>10</text>
-<rect x='693' y='116' width='92' height='46' rx='4' fill='#2a78d6'><title>Life Sciences / Cross-task: 21</title></rect>
-<text x='739.0' y='144.0' font-size='14' font-weight='600' text-anchor='middle' fill='#ffffff'>21</text>
-<rect x='788' y='116' width='92' height='46' rx='4' fill='#256abf'><title>Life Sciences / Within-project: 25</title></rect>
-<text x='834.0' y='144.0' font-size='14' font-weight='600' text-anchor='middle' fill='#ffffff'>25</text>
+<rect x='693' y='116' width='92' height='46' rx='4' fill='#2a78d6'><title>Life Sciences / Cross-task: 22</title></rect>
+<text x='739.0' y='144.0' font-size='14' font-weight='600' text-anchor='middle' fill='#ffffff'>22</text>
+<rect x='788' y='116' width='92' height='46' rx='4' fill='#256abf'><title>Life Sciences / Within-project: 23</title></rect>
+<text x='834.0' y='144.0' font-size='14' font-weight='600' text-anchor='middle' fill='#ffffff'>23</text>
 <text x='178' y='186.0' font-size='13' text-anchor='end' fill='#0b0b0b'>Chemistry &amp; Materials</text>
-<text x='178' y='202.0' font-size='11' text-anchor='end' fill='#52514e'>45 papers</text>
+<text x='178' y='202.0' font-size='11' text-anchor='end' fill='#52514e'>46 papers</text>
 <rect x='190' y='165' width='92' height='46' rx='4' fill='#184f95'><title>Chemistry &amp; Materials / Memory: 29</title></rect>
 <text x='236.0' y='193.0' font-size='14' font-weight='600' text-anchor='middle' fill='#ffffff'>29</text>
-<rect x='285' y='165' width='92' height='46' rx='4' fill='#1c5cab'><title>Chemistry &amp; Materials / Knowledge: 28</title></rect>
-<text x='331.0' y='193.0' font-size='14' font-weight='600' text-anchor='middle' fill='#ffffff'>28</text>
+<rect x='285' y='165' width='92' height='46' rx='4' fill='#184f95'><title>Chemistry &amp; Materials / Knowledge: 29</title></rect>
+<text x='331.0' y='193.0' font-size='14' font-weight='600' text-anchor='middle' fill='#ffffff'>29</text>
 <rect x='380' y='165' width='92' height='46' rx='4' fill='#86b6ef'><title>Chemistry &amp; Materials / Toolkit: 9</title></rect>
 <text x='426.0' y='193.0' font-size='14' font-weight='600' text-anchor='middle' fill='#0b0b0b'>9</text>
 <rect x='475' y='165' width='92' height='46' rx='4' fill='#86b6ef'><title>Chemistry &amp; Materials / Architecture: 8</title></rect>
 <text x='521.0' y='193.0' font-size='14' font-weight='600' text-anchor='middle' fill='#0b0b0b'>8</text>
-<rect x='598' y='165' width='92' height='46' rx='4' fill='#86b6ef'><title>Chemistry &amp; Materials / Training: 9</title></rect>
-<text x='644.0' y='193.0' font-size='14' font-weight='600' text-anchor='middle' fill='#0b0b0b'>9</text>
+<rect x='598' y='165' width='92' height='46' rx='4' fill='#86b6ef'><title>Chemistry &amp; Materials / Training: 10</title></rect>
+<text x='644.0' y='193.0' font-size='14' font-weight='600' text-anchor='middle' fill='#0b0b0b'>10</text>
 <rect x='693' y='165' width='92' height='46' rx='4' fill='#86b6ef'><title>Chemistry &amp; Materials / Cross-task: 9</title></rect>
 <text x='739.0' y='193.0' font-size='14' font-weight='600' text-anchor='middle' fill='#0b0b0b'>9</text>
-<rect x='788' y='165' width='92' height='46' rx='4' fill='#256abf'><title>Chemistry &amp; Materials / Within-project: 25</title></rect>
-<text x='834.0' y='193.0' font-size='14' font-weight='600' text-anchor='middle' fill='#ffffff'>25</text>
+<rect x='788' y='165' width='92' height='46' rx='4' fill='#1c5cab'><title>Chemistry &amp; Materials / Within-project: 27</title></rect>
+<text x='834.0' y='193.0' font-size='14' font-weight='600' text-anchor='middle' fill='#ffffff'>27</text>
 <text x='178' y='235.0' font-size='13' text-anchor='end' fill='#0b0b0b'>Physics, Earth &amp; Space</text>
 <text x='178' y='251.0' font-size='11' text-anchor='end' fill='#52514e'>25 papers</text>
 <rect x='190' y='214' width='92' height='46' rx='4' fill='#6da7ec'><title>Physics, Earth &amp; Space / Memory: 13</title></rect>
@@ -60,7 +60,7 @@
 <rect x='788' y='214' width='92' height='46' rx='4' fill='#9ec5f4'><title>Physics, Earth &amp; Space / Within-project: 7</title></rect>
 <text x='834.0' y='242.0' font-size='14' font-weight='600' text-anchor='middle' fill='#0b0b0b'>7</text>
 <text x='178' y='284.0' font-size='13' text-anchor='end' fill='#0b0b0b'>General Frameworks</text>
-<text x='178' y='300.0' font-size='11' text-anchor='end' fill='#52514e'>13 papers</text>
+<text x='178' y='300.0' font-size='11' text-anchor='end' fill='#52514e'>12 papers</text>
 <rect x='190' y='263' width='92' height='46' rx='4' fill='#86b6ef'><title>General Frameworks / Memory: 9</title></rect>
 <text x='236.0' y='291.0' font-size='14' font-weight='600' text-anchor='middle' fill='#0b0b0b'>9</text>
 <rect x='285' y='263' width='92' height='46' rx='4' fill='#86b6ef'><title>General Frameworks / Knowledge: 8</title></rect>

@@ -5,7 +5,7 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Papers](https://img.shields.io/badge/papers-139-2a78d6)](#-paper-list)
+[![Papers](https://img.shields.io/badge/papers-138-2a78d6)](#-paper-list)
 [![Last Updated](https://img.shields.io/badge/updated-2026--10-eb6834)](#-news)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/REAL-Lab-NU/Awesome-Self-Evolving-Scientific-Agents/pulls)
 [![GitHub stars](https://img.shields.io/github/stars/REAL-Lab-NU/Awesome-Self-Evolving-Scientific-Agents?style=social)](https://github.com/REAL-Lab-NU/Awesome-Self-Evolving-Scientific-Agents)
@@ -23,7 +23,7 @@ This repository collects work on **self-evolving LLM agents in the natural scien
 
 ## 📢 News
 
-- **[2026-10]** 🎉 Repository launched with **139 papers**, each labeled by what evolves, when, how, and where.
+- **[2026-10]** 🎉 Repository launched with **138 papers**, each labeled by what evolves, when, how, and where.
 
 ## 📑 Contents
 
@@ -31,10 +31,10 @@ This repository collects work on **self-evolving LLM agents in the natural scien
 - [📐 Taxonomy](#-taxonomy)
 - [📊 At a glance](#-at-a-glance)
 - [📚 Paper list](#-paper-list)
-  - [🧬 Life Sciences](#-life-sciences) (56)
-  - [🔬 Chemistry & Materials](#-chemistry--materials) (45)
+  - [🧬 Life Sciences](#-life-sciences) (55)
+  - [🔬 Chemistry & Materials](#-chemistry--materials) (46)
   - [🌌 Physics, Earth & Space Sciences](#-physics-earth--space-sciences) (25)
-  - [🧭 General Scientific Agent Frameworks](#-general-scientific-agent-frameworks) (13)
+  - [🧭 General Scientific Agent Frameworks](#-general-scientific-agent-frameworks) (12)
 - [🤝 Contributing](#-contributing)
 
 ## 🔍 What counts as self-evolving
@@ -107,6 +107,7 @@ One table per domain, grouped by **When** (cross-task › training › within-pr
 | [**EasyBCI Agent**: Towards Universal Neural Data Preprocessing for Brain-Computer Interfaces](https://arxiv.org/abs/2607.29007) | arXiv<br><sub>2026.07</sub> | Cross-task | 🗂️ | Code exec, Human |  |
 | [**ReCo**: a self-configuring and self-extending agentic framework for biomedical research](https://doi.org/10.64898/2026.07.14.26358025) | medRxiv<br><sub>2026.07</sub> | Cross-task | 🛠️ | Code exec, Human | [💻](https://github.com/eltzanis/ReCo) |
 | [**SpaCellAgent**: A Self-Evolving LLM-Based Multi-Agent Framework for Trajectory Analysis](https://arxiv.org/abs/2607.07467) | KDD<br><sub>2026.07</sub> | Cross-task | 🗂️ 🛠️ | Code exec, Literature | [💻](https://github.com/LittleXH-shw/SpaCellAgent) |
+| [**ADMET-EvO**: a self-evolving scientific agent for sustained research across heterogeneous tasks](https://arxiv.org/abs/2609.10121) | arXiv<br><sub>2026.09</sub> | Cross-task | 🗂️ 💡 🏗️ | Code exec, Benchmark |  |
 | [An autonomous agentic framework for cross-campaign generalization and sensor shift adaptation](https://doi.org/10.1088/2632-2153/ae9fb7) | Machine Learning: Science and Technology<br><sub>2026.09</sub> | Cross-task | 🗂️ 💡 | Code exec, Benchmark |  |
 | [**Paper2Agent**: Reimagining Research Papers As Interactive and Reliable AI Agents](https://arxiv.org/abs/2509.06917) | Nature<br><sub>2025.09</sub> | Training | 🛠️ | Code exec | [💻](https://github.com/jmiao24/Paper2Agent) |
 | [**ToolUniverse**: An open platform for democratizing AI scientists](https://arxiv.org/abs/2509.23426) | arXiv<br><sub>2025.09</sub> | Training | 🛠️ | Code exec, Literature | [💻](https://github.com/mims-harvard/ToolUniverse) |
@@ -129,7 +130,6 @@ One table per domain, grouped by **When** (cross-task › training › within-pr
 | [Swarms of Large Language Model Agents for Protein Sequence Design with Experimental Validation](https://arxiv.org/abs/2511.22311) | arXiv<br><sub>2025.11</sub> | Within-project | 🗂️ 💡 | Simulation | [💻](https://github.com/lamm-mit/ProteinSwarm) |
 | [**The Station**: An Open-World Environment for AI-Driven Discovery](https://arxiv.org/abs/2511.06309) | arXiv<br><sub>2025.11</sub> | Within-project | 🗂️ 💡 🛠️ 🏗️ | Code exec, Benchmark | [💻](https://github.com/dualverse-ai/station) |
 | [**MARBLE**: Multi-Agent Reasoning for Bioinformatics Learning and Evolution](https://arxiv.org/abs/2601.14349) | arXiv<br><sub>2026.01</sub> | Within-project | 🗂️ 💡 | Code exec, Benchmark | [💻](https://github.com/PRISM-DGU/MARBLE) |
-| [An AI-Native Biofoundry for Autonomous Enzyme Engineering: Integrating Active Learning with Automated Experimentation](https://doi.org/10.64898/2026.02.01.703093) | bioRxiv<br><sub>2026.02</sub> | Within-project | 💡 | Wet lab |  |
 | [**MAC-AMP**: A Closed-Loop Multi-Agent Collaboration System for Multi-Objective Antimicrobial Peptide Design](https://arxiv.org/abs/2602.14926) | arXiv<br><sub>2026.02</sub> | Within-project | 🗂️ 🛠️ 🏗️ | Simulation, Code exec | [💻](https://github.com/CLMFAP/MAC-AMP_v1) |
 | [Using a GPT-5-driven autonomous lab to optimize the cost and titer of cell-free protein synthesis](https://doi.org/10.64898/2026.02.05.703998) | bioRxiv<br><sub>2026.02</sub> | Within-project | 🗂️ | Wet lab |  |
 | [**ASI-Evolve**: AI Accelerates AI](https://arxiv.org/abs/2603.29640) | arXiv<br><sub>2026.03</sub> | Within-project | 🗂️ | Code exec, Benchmark | [💻](https://github.com/GAIR-NLP/ASI-Evolve) |
@@ -140,7 +140,6 @@ One table per domain, grouped by **When** (cross-task › training › within-pr
 | [**Networked Intelligence**: Active Shared Context Graphs for Human-AI Team Science](https://arxiv.org/abs/2607.13220) | arXiv<br><sub>2026.07</sub> | Within-project | 🗂️ 💡 | Wet lab, Code exec |  |
 | [Accelerating Scientific Research with Gemini in the Real-World](https://arxiv.org/abs/2608.26701) | arXiv<br><sub>2026.08</sub> | Within-project | 💡 | Code exec, LLM judge |  |
 | [**AgentFold**: Closed-Loop Agentic Search for Protein Folding Model Design](https://arxiv.org/abs/2608.26747) | arXiv<br><sub>2026.08</sub> | Within-project | 🗂️ 💡 | Code exec, Benchmark | [💻](https://github.com/lmqfly/AgentFold) |
-| [**ADMET-EvO**: a self-evolving scientific agent for sustained research across heterogeneous tasks](https://arxiv.org/abs/2609.10121) | arXiv<br><sub>2026.09</sub> | Within-project | 🗂️ | Code exec, Benchmark |  |
 | [**BioDyad**: Synchronize Biomedical Discovery and Machine Learning Engineering](https://arxiv.org/abs/2609.31939) | arXiv<br><sub>2026.09</sub> | Within-project | 🗂️ | Code exec, Benchmark |  |
 | [Harnessing AI to Build Virtual Cells](https://doi.org/10.64898/2026.04.11.717183) | bioRxiv<br><sub>2026.4.</sub> | Within-project | 🗂️ | Code exec, Benchmark |  |
 
@@ -161,6 +160,7 @@ One table per domain, grouped by **When** (cross-task › training › within-pr
 | [**ChemHTS**: Hierarchical Tool Stacking for Enhancing Chemical Agents](https://arxiv.org/abs/2502.14327) | arXiv<br><sub>2025.02</sub> | Training | 🛠️ 🏗️ | Benchmark | [💻](https://github.com/Chang-pw/ChemAmp) |
 | [**ChemAmp**: Amplified Chemistry Tools via Composable Agents](https://arxiv.org/abs/2505.21569) | arXiv<br><sub>2025.05</sub> | Training | 🛠️ 🏗️ | Benchmark | [💻](https://github.com/Chang-pw/ChemAmp) |
 | [Autonomous Multi-objective Alloy Design through Simulation-guided Optimization](https://arxiv.org/abs/2507.16005) | arXiv<br><sub>2025.07</sub> | Training | 🛠️ | Simulation, Literature | [💻](https://github.com/penghui-yang/AutoMAT) |
+| [**Feedback to Reasoning**: LLM-Assisted Molecular Optimization with Domain Feedback and Historical Reasoning](https://doi.org/10.18653/v1/2026.findings-acl.619) | Findings of ACL<br><sub>2026</sub> | Training | 🗂️ 💡 | Simulation | [💻](https://github.com/wenhangao21/ACL2026-F2R) |
 | [**AgentCAT**: An LLM Agent for Extracting and Analyzing Catalytic Reaction Data from Chemical Engineering Literature](https://arxiv.org/abs/2602.18479) | arXiv<br><sub>2026.02</sub> | Training | 🏗️ | Literature, Human |  |
 | [**MolMem**: Memory-Augmented Agentic Reinforcement Learning for Sample-Efficient Molecular Optimization](https://arxiv.org/abs/2604.12237) | ACL<br><sub>2026.04</sub> | Training | 💡 | Simulation | [💻](https://github.com/REAL-Lab-NU/MolMem) |
 | [Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin](https://arxiv.org/abs/2606.05050) | arXiv<br><sub>2026.06</sub> | Training | 🗂️ 💡 🏗️ | Simulation, Code exec |  |
@@ -168,6 +168,8 @@ One table per domain, grouped by **When** (cross-task › training › within-pr
 | [**S3C-LLM**: Skill-Code Guided Agentic Language Models for Spectrum-to-Structure Elucidation](https://arxiv.org/abs/2608.30910) | arXiv<br><sub>2026.08</sub> | Training | 💡 | Benchmark |  |
 | [**LLMatDesign**: Autonomous Materials Discovery with Large Language Models](https://arxiv.org/abs/2406.13163) | arXiv<br><sub>2024.06</sub> | Within-project | 🗂️ | Simulation |  |
 | [A Multi-agent Framework for Physical Laws Discovery](https://arxiv.org/abs/2411.16416) | arXiv<br><sub>2024.11</sub> | Within-project | 🗂️ | Code exec, Benchmark |  |
+| [**ExLLM**: Experience-Enhanced LLM Optimization for Molecular Design and Beyond](https://arxiv.org/abs/2502.12845) | arXiv<br><sub>2025.02</sub> | Within-project | 💡 | Simulation | [💻](https://github.com/HuskyNian/ExLLM) |
+| [**PharmAgents**: Building a Virtual Pharma with Large Language Model Agents](https://arxiv.org/abs/2503.22164) | arXiv<br><sub>2025.03</sub> | Within-project | 🗂️ | Simulation, LLM judge |  |
 | [Accelerated Inorganic Materials Design with Generative AI Agents](https://arxiv.org/abs/2504.00741) | Cell Reports Physical Science<br><sub>2025.04</sub> | Within-project | 🗂️ | Simulation | [💻](https://github.com/izumitkhr/matagent) |
 | [**Reasoning BO**: Enhancing Bayesian Optimization with Long-Context Reasoning Power of LLMs](https://arxiv.org/abs/2505.12833) | arXiv<br><sub>2025.05</sub> | Within-project | 🗂️ 💡 | Benchmark, LLM judge |  |
 | [Human-AI collaborative autonomous synthesis with pulsed laser deposition for remote epitaxy](https://arxiv.org/abs/2511.11558) | Research Square<br><sub>2025.11</sub> | Within-project | 🛠️ | Wet lab, Code exec |  |
@@ -175,7 +177,7 @@ One table per domain, grouped by **When** (cross-task › training › within-pr
 | [**ChemNavigator**: Agentic AI Discovery of Design Rules for Organic Photocatalysts](https://arxiv.org/abs/2601.17084) | arXiv<br><sub>2026.01</sub> | Within-project | 💡 | Simulation |  |
 | [Reasoning-Driven Design of Single Atom Catalysts via a Multi-Agent Large Language Model Framework](https://arxiv.org/abs/2602.21533) | arXiv<br><sub>2026.02</sub> | Within-project | 🗂️ 💡 | Simulation, LLM judge |  |
 | [**AI4S-SDS**: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment](https://arxiv.org/abs/2603.03686) | arXiv<br><sub>2026.03</sub> | Within-project | 🗂️ 💡 | Simulation, LLM judge |  |
-| [Constraint-Aware Corrective Memory for Language-Based Drug Discovery Agents](https://arxiv.org/abs/2604.09308) | arXiv<br><sub>2026.04</sub> | Within-project | 🗂️ | Simulation, Code exec |  |
+| [Constraint-Aware Corrective Memory for Language-Based Drug Discovery Agents](https://arxiv.org/abs/2604.09308) | arXiv<br><sub>2026.04</sub> | Within-project | 🗂️ | Simulation, LLM judge |  |
 | [Agentic Design of Compositional Descriptors via Autoresearch for Materials Science Applications](https://arxiv.org/abs/2605.14671) | arXiv<br><sub>2026.05</sub> | Within-project | 🗂️ | Benchmark |  |
 | [Agentic Discovery of Exchange-Correlation Density Functionals](https://arxiv.org/abs/2605.05460) | arXiv<br><sub>2026.05</sub> | Within-project | 🗂️ 💡 | Simulation, Benchmark |  |
 | [**Battery-Sim-Agent**: Leveraging LLM-Agent for Inverse Battery Parameter Estimation](https://arxiv.org/abs/2605.29560) | KDD<br><sub>2026.05</sub> | Within-project | 🗂️ 💡 | Simulation, Benchmark | [💻](https://github.com/opqrst-chen/Battery-Sim-Agent) |
@@ -191,8 +193,6 @@ One table per domain, grouped by **When** (cross-task › training › within-pr
 | [Autonomous discovery of new structure-plausibility laws for explainable and rapid crystal diagnosis and screening](https://arxiv.org/abs/2609.01209) | arXiv<br><sub>2026.09</sub> | Within-project | 🗂️ 🛠️ | Simulation, Code exec |  |
 | [Human-agent discovery of reconfigurable in-plane ferroelectric superdomain control](https://arxiv.org/abs/2609.06887) | arXiv<br><sub>2026.09</sub> | Within-project | 🗂️ 💡 🛠️ 🏗️ | Wet lab, Code exec |  |
 | [Hypothesis-Driven Autonomous Materials Synthesis with Multimodal LLM Agents](https://arxiv.org/abs/2609.18598) | arXiv<br><sub>2026.09</sub> | Within-project | 💡 🛠️ | Wet lab, Code exec |  |
-| [**PharmAgents**: Building a Virtual Pharma with Large Language Model Agents](https://arxiv.org/abs/2503.22164) | arXiv<br><sub>2025.03</sub> | — | 🗂️ | Simulation, LLM judge |  |
-| [**Feedback to Reasoning**: LLM-Assisted Molecular Optimization with Domain Feedback and Historical Reasoning](https://doi.org/10.18653/v1/2026.findings-acl.619) | Findings of ACL<br><sub>2026</sub> | — | 🗂️ 💡 | Simulation, Code exec | [💻](https://github.com/wenhangao21/ACL2026-F2R) |
 
 ### 🌌 Physics, Earth & Space Sciences
 
@@ -240,7 +240,6 @@ One table per domain, grouped by **When** (cross-task › training › within-pr
 | [**LLM-AutoSciLab**: Closed-Loop Scientific Discovery via Active Experimentation with LLMs](https://arxiv.org/abs/2605.24043) | arXiv<br><sub>2026.05</sub> | Within-project | 🗂️ 💡 | Simulation, Benchmark | [💻](https://github.com/scientific-discovery/LLM-AutoSciLab) |
 | [**Large Discovery Models**: Empirically-grounded Model-Based Open-Ended Search](https://arxiv.org/abs/2608.15669) | arXiv<br><sub>2026.08</sub> | Within-project | 🗂️ 💡 | Simulation | [💻](https://github.com/yzailab/Large-Discovery-Models) |
 | [**EvoSCM**: Scientific Belief Revision Through Causal Model Evolution and Experimentation](https://arxiv.org/abs/2609.01526) | arXiv<br><sub>2026.09</sub> | Within-project | 🗂️ 💡 | Simulation |  |
-| [**ExLLM**: Experience-Enhanced LLM Optimization for Molecular Design and Beyond](https://arxiv.org/abs/2502.12845) | arXiv<br><sub>2025.02</sub> | — |  | — | [💻](https://github.com/HuskyNian/ExLLM) |
 
 ## 🤝 Contributing
 
